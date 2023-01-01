@@ -18,7 +18,7 @@
 ![](Images/Screenshot_4.png)
 
 ## Links
-- Live Site URL: [https://lidijaal.github.io/To-Do-App/](https://lidijaal.github.io/To-Do-App/))
+- Live Site URL: [https://lidijaal.github.io/To-Do-App/](https://lidijaal.github.io/To-Do-App/)
 
 ## Built with
 - HTML
