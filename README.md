@@ -5,7 +5,7 @@
 
 - [Overview](#overview)
 - [Screenshot](#screenshot)
-- [Links](#links)
+- [Link](#links)
 - [Built with](#built-with)
 
 
@@ -21,8 +21,8 @@
 ### Mobile
 ![](Images/Screenshot_1.png)
 
-## Links
-- Live Site URL: [https://lidijaal.github.io/Weather-App/](https://lidijaal.github.io/Weather-App/) 
+## Link
+- Live Site URL: [https://lidijaaltodoapp.netlify.app](https://lidijaaltodoapp.netlify.app) 
 
 ### Built with
 - HTML
