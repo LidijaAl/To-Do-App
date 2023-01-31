@@ -14,8 +14,8 @@
    
 ## Screenshot
 
-![](Images\Screenshot_2.png)
-![](Images\Screenshot_1.png)
+![](Images/Screenshot_2.png)
+![](Images/Screenshot_1.png)
 
 ### Built with
 - HTML
