@@ -126,7 +126,6 @@ function getTodos(){
     newTodo.innerText = todo;
     newTodo.classList.add("todo-item");
     todoDiv.appendChild(newTodo);
-    todoDiv.appendChild(newTodo);
 
     
     const completedButton = document.createElement("button");
